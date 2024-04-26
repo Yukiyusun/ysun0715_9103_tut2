@@ -9,3 +9,5 @@ This is my first edit of the readme file.
 ### Heading 3
 
 ###### Heading 6
+
+**This is bold text**
