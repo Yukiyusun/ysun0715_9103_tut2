@@ -19,3 +19,8 @@ This is my first edit of the readme file.
     - Sub item 1
     - Sub item 2
         - Sub item 3
+
+**Numbered list**
+1. First item
+2. Second list
+    1. 1st sub item
