@@ -34,3 +34,4 @@ This is my first edit of the readme file.
 ```
 Here is a code block
 ```
+![This is the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
